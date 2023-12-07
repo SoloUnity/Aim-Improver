@@ -1,4 +1,4 @@
-# Aim Improver
+# Aim Trainer
 My first major coding project from high school, consisting of an "aim trainer" similar to OSU with my own twist. Made with (and requires) the pygames library and python.
 
 <div align="center">
